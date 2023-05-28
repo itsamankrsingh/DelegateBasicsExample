@@ -1,0 +1,15 @@
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\bin\Debug\net6.0\DelegateBasicsExample.exe
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\bin\Debug\net6.0\DelegateBasicsExample.deps.json
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\bin\Debug\net6.0\DelegateBasicsExample.runtimeconfig.json
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\bin\Debug\net6.0\DelegateBasicsExample.dll
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\bin\Debug\net6.0\DelegateBasicsExample.pdb
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\obj\Debug\net6.0\DelegateBasicsExample.csproj.AssemblyReference.cache
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\obj\Debug\net6.0\DelegateBasicsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\obj\Debug\net6.0\DelegateBasicsExample.AssemblyInfoInputs.cache
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\obj\Debug\net6.0\DelegateBasicsExample.AssemblyInfo.cs
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\obj\Debug\net6.0\DelegateBasicsExample.csproj.CoreCompileInputs.cache
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\obj\Debug\net6.0\DelegateBasicsExample.dll
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\obj\Debug\net6.0\refint\DelegateBasicsExample.dll
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\obj\Debug\net6.0\DelegateBasicsExample.pdb
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\obj\Debug\net6.0\DelegateBasicsExample.genruntimeconfig.cache
+D:\Code\C#\Advanced C#\DelegateBasicsExample\DelegateBasicsExample\obj\Debug\net6.0\ref\DelegateBasicsExample.dll
